@@ -36,7 +36,6 @@ welcome to my GitHub!</h1>
 <a href="https://www.docker.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/en-us" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" /></a>
 <a href="https://neovim.io/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40" /></a>
-<a href="https://www.lua.org/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="40" height="40" /></a>
           
 
             
